@@ -1,0 +1,4 @@
+.env
+knexfile.js
+
+node_modules/
